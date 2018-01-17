@@ -7,13 +7,13 @@ The data obtained is well suited for many further analysis purposes. For example
 
 ## Setup
 ### Installation on macOS
-pip install requests
+pip install requests  
 pip install lxml
 
-Install Homebrew by pasting all of the following at a terminal prompt:
+Install Homebrew by pasting all of the following at a terminal prompt:  
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-brew update
+brew update  
 brew install mongodb
 
 Futher reference of installing MongoDB: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
