@@ -30,3 +30,5 @@ The information is saved in MongoDB database. You may export the data to a .csv 
 
 ## Futher Improvement
 The program could be improved by applying multithreading or distributed crawling techniques to increase crawling speed and by autogenerating bid string in cookie or using multiple IP addresses to avoid blockage.
+
+For doudou.
