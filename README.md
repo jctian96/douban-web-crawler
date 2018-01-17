@@ -27,6 +27,7 @@ The database and collection are initialized as 'douban' and 'douban_movies_data'
 
 ## Output
 The information is saved in MongoDB database. You may export the data to a .csv file by using mongoexport in terminal.
+A [sample output](.sample_output.csv) is available
 
 ## Futher Improvement
 The program could be improved by applying multithreading or distributed crawling techniques to increase crawling speed and by autogenerating bid string in cookie or using multiple IP addresses to avoid blockage.
