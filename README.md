@@ -26,8 +26,7 @@ You are advised to change the request headers before running the program to avoi
 The database and collection are initialized as 'douban' and 'douban_movies_data'. You may change these in main().
 
 ## Output
-The information is saved in MongoDB database. You may export the data to a .csv file by using mongoexport in terminal.
-A [sample output](.sample_output.csv) is available
+The information is saved in MongoDB database. You may export the data to a .csv file by using mongoexport in terminal and open it with Excel. A [sample output](/sample_output.csv) is available.
 
 ## Futher Improvement
 The program could be improved by applying multithreading or distributed crawling techniques to increase crawling speed and by autogenerating bid string in cookie or using multiple IP addresses to avoid blockage.
